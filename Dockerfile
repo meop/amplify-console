@@ -1,5 +1,5 @@
 FROM amazonlinux:2
-MAINTAINER Amazon AWS
+LABEL maintainer="Amazon AWS"
 
 # Framework Versions
 ENV VERSION_NODE_8=8.12.0
